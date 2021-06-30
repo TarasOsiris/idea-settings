@@ -86,20 +86,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
-  <component name="NodeRendererSettings">
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="NAME" value="X0" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="boolean[]" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="boolean[]" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="Arrays.asList(this).stream().map( v -&gt; v.toString())&#13;java.util.Arrays&#13;JAVA" />
-        </Renderer>
-      </Renderer>
-    </CustomRenderers>
-  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
