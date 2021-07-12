@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -61,6 +64,10 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="f3" second-keystroke="f3" />
+  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
