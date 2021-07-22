@@ -32,7 +32,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="EditorLineEnd" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="EditorPageDown" />
   <action id="EditorPageUp" />
   <action id="EditorSelectWord" />
