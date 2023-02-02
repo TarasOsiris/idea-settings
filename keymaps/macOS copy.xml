@@ -8,6 +8,12 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Documentation.Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
