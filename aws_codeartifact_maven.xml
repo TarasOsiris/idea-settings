@@ -1,0 +1,23 @@
+<application>
+  <component name="aws_codeartifact_maven.state">
+    <option name="version" value="3" />
+    <option name="mavenSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+    <option name="awsPath" value="" />
+    <option name="mavenServerId" value="" />
+    <option name="awsProfile" value="default" />
+    <option name="allProfiles">
+      <set>
+        <option value="default" />
+      </set>
+    </option>
+    <option name="allMavenServerIds">
+      <set />
+    </option>
+    <option name="domains">
+      <map />
+    </option>
+    <option name="domainOwners">
+      <map />
+    </option>
+  </component>
+</application>
