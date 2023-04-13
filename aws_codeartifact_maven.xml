@@ -2,22 +2,29 @@
   <component name="aws_codeartifact_maven.state">
     <option name="version" value="3" />
     <option name="mavenSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
-    <option name="awsPath" value="" />
-    <option name="mavenServerId" value="" />
-    <option name="awsProfile" value="default" />
+    <option name="awsPath" value="/opt/homebrew/bin/aws" />
+    <option name="mavenServerId" value="transfollow-release-repository" />
+    <option name="awsProfile" value="maven" />
     <option name="allProfiles">
       <set>
         <option value="default" />
+        <option value="maven" />
       </set>
     </option>
     <option name="allMavenServerIds">
-      <set />
+      <set>
+        <option value="transfollow-release-repository" />
+      </set>
     </option>
     <option name="domains">
-      <map />
+      <map>
+        <entry key="transfollow-release-repository" value="transfollow" />
+      </map>
     </option>
     <option name="domainOwners">
-      <map />
+      <map>
+        <entry key="transfollow-release-repository" value="801933934434" />
+      </map>
     </option>
   </component>
 </application>
